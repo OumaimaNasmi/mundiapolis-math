@@ -7,7 +7,10 @@ Module that trasposes a matrix using numpy
 
 def np_transpose(matrix):
     """
-    Needs a matrix as input
-    Returns a trasposed matrix
+    Function that transposes matrix(numpy.ndarray).
+    Parameters:
+    - matrix (nympy.ndarray).
+    Return:
+     A new numpy.ndarray.
     """
-    return matrix.transpose()
+    return matrix.T
