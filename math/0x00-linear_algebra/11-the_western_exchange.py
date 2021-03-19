@@ -1,4 +1,3 @@
-
 #!/usr/bin/env python3
 """
 Module that trasposes a matrix using numpy
